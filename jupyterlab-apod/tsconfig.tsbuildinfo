@@ -734,7 +734,7 @@
         "signature": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c"
       },
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/src/index.ts": {
-        "version": "de72c9fb8e59861951b662098800b8eaec8669bbe34e5e0a852adb23fb10f268",
+        "version": "375a5780326d8c5175927c9d5caf8d40c1b77328507fa1538094d08b7a4a61e7",
         "signature": "39a0435790a50bcb5ba60dc6960887158e21043ccdb4de299ce0dc1c0629269b"
       }
     },
@@ -1572,7 +1572,9 @@
         "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/application/lib/tokens.d.ts"
       ],
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/src/index.ts": [
-        "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/application/lib/index.d.ts"
+        "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/widgets/lib/index.d.ts"
       ]
     },
     "exportedModulesMap": {

@@ -42,7 +42,7 @@
     classnames "^2.2"
     tslib "~1.9.0"
 
-"@jupyterlab/application@^1.0.0":
+"@jupyterlab/application@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-1.1.0.tgz#f6fff007f133a2e8a7d9b66a496409cfeff99760"
   integrity sha512-spEePZ8nWRQa9LbCL/E3Uekgm1lp0Chd9pT1AaTObbpi9TjBGav9SC6wKnn9KBMt833mBBprnwBRbKXYpWlfTQ==
