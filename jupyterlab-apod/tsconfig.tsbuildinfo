@@ -97,6 +97,10 @@
         "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
         "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
       },
+      "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/messaging/lib/index.d.ts": {
+        "version": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f",
+        "signature": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f"
+      },
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/coreutils/lib/json.d.ts": {
         "version": "9d441989d1cbb52939625e57621620524bf19c3c223f01007941ecd10335d0d1",
         "signature": "9d441989d1cbb52939625e57621620524bf19c3c223f01007941ecd10335d0d1"
@@ -212,10 +216,6 @@
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/services/lib/config/index.d.ts": {
         "version": "19cfa3052ebbd4da27f4d002ea75ef70b753489bbc491f8038c310a42567a25d",
         "signature": "19cfa3052ebbd4da27f4d002ea75ef70b753489bbc491f8038c310a42567a25d"
-      },
-      "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/messaging/lib/index.d.ts": {
-        "version": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f",
-        "signature": "6d4bce054cce22306edccc85e738a800ea0364a82e85f9bf61156ed03604d24f"
       },
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/observables/lib/observablemap.d.ts": {
         "version": "e396f2c62c7a1d768430052374f6592179277121445368979ab9b338776d17a8",
@@ -734,7 +734,7 @@
         "signature": "7a7e8dec050f4ad9d6b093812a3a203acb13a32364079db20f7a6fde38f8427c"
       },
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/src/index.ts": {
-        "version": "58fe30bdb1d36982b105f161aaead5457836ea358135d933962f1b391ec10cf6",
+        "version": "1a006b7985f3cc6e8ae770b4bbd7d30ee30329710117751818edb9cbbe351953",
         "signature": "39a0435790a50bcb5ba60dc6960887158e21043ccdb4de299ce0dc1c0629269b"
       }
     },
@@ -1572,6 +1572,7 @@
         "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/application/lib/tokens.d.ts"
       ],
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/src/index.ts": [
+        "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/messaging/lib/index.d.ts",
         "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/apputils/lib/index.d.ts",
         "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/widgets/lib/index.d.ts"
@@ -2417,6 +2418,7 @@
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/typescript/lib/lib.es2017.intl.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/typescript/lib/lib.es2017.full.d.ts",
+      "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/messaging/lib/index.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/coreutils/lib/json.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/coreutils/lib/mime.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/coreutils/lib/promise.d.ts",
@@ -2446,7 +2448,6 @@
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/disposable/lib/index.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/commands/lib/index.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/services/lib/config/index.d.ts",
-      "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@phosphor/messaging/lib/index.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/observables/lib/observablemap.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
       "/users/hidehisa/hobby/jupyterlab-sample-extension/jupyterlab-apod/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
